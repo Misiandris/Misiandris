@@ -1,0 +1,113 @@
+TD {
+    FONT-FAMILY: Source Sans Pro,Helvetica;
+    FONT-SIZE: 11px;
+}
+
+.AS {
+    FONT-FAMILY: Source Sans Pro,Helvetica;
+    FONT-SIZE: 12px;
+}
+
+a.menu:link {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.menu:active {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.menu:visited {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.menu:hover {
+    BACKGROUND: none;
+    COLOR: #FFFFFF;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.tt:link {
+    BACKGROUND: none;
+    COLOR: red;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.tt:active {
+    BACKGROUND: none;
+    COLOR: red;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.tt:visited {
+    BACKGROUND: none;
+    COLOR: red;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+a.tt:hover {
+    BACKGROUND: none;
+    COLOR: black;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none;
+    font-weight: bold;
+}
+
+A:link {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none
+}
+
+A:active {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: underline
+}
+
+A:visited {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: none
+}
+
+A:hover {
+    BACKGROUND: none;
+    COLOR: #000000;
+    FONT-SIZE: 12px;
+    FONT-FAMILY: Source Sans Pro, Helvetica;
+    TEXT-DECORATION: underline
+}
